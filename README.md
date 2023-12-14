@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋 Folks</h1>
-<h3 align="center">A Problem Solver this side!</h3>
+<h3 align="center">A Backend Engineer this side</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=invocoder&label=Profile%20views&color=0e75b6&style=flat" alt="invocoder" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/muskaanngupta" target="blank"><img src="https://img.shields.io/twitter/follow/muskaanngupta?logo=twitter&style=for-the-badge" alt="muskaanngupta" /></a> </p>
 
-- 🔭 I’m currently working on **problem solving**
+- 🔭 I’m currently working on **my Backend skills**
 
-- 🌱 I’m currently learning **to build problem solving products**
+- 🌱 I’m currently learning **to build solutions at scale**
 
-- 👯 I’m looking to collaborate on **innovative ideas**
+- 👯 I’m looking to collaborate on **innovative ideas and products**
 
 - 🤝 I’m looking for help with **innovation seekers**
 
